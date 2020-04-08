@@ -10,7 +10,7 @@ Extract ActiveMQ from the ZIP file into a directory of your choice.
 | `cd [activemq_install_dir]/bin`<br/>
 |`./activemq start`
 
-4. Open the administrative interface
+4. Open the administrative interface:
 - URL: http://127.0.0.1:8161/admin/
 - Login: admin
-- Passwort: admin
+- Password: admin
