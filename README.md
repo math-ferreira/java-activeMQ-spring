@@ -1,4 +1,4 @@
-- Procedimentos - ActiveMQ local:
+**Procedimentos - ActiveMQ local:**
 
 1. Download the latest release (http://activemq.apache.org/components/classic/)</br>
 (see Download -> “The latest stable release” -> “apache-activemq-x.x.x-source-release.zip”)
